@@ -39,16 +39,6 @@ A personal portfolio website built with Vue.js to showcase my skills, projects, 
 
 ---
 
-## 📸 Screenshots
-
-> Add screenshots to visually showcase your design — e.g.:
-
-- `/assets/hero-preview.png`
-- `/assets/projects-preview.png`
-- `/assets/skills-preview.png`
-
----
-
 ## 🚀 Deployment
 
 To deploy the site:
