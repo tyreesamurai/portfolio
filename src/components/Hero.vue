@@ -56,6 +56,6 @@ function openLinkedIn() {
       </div>
     </div>
 
-    <img src="../assets/hero.jpg" />
+    <img src="../assets/hero2.jpg" />
   </div>
 </template>
