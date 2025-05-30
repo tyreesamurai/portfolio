@@ -38,7 +38,9 @@ function openGitHub() {
         </div>
         <div class="item">
           <i class="ri-restaurant-2-line"></i>
-          <a href="#">Recipe Management App</a>
+          <a href="https://github.com/tyreesamurai/recipe-assistant"
+            >Recipe Management App</a
+          >
           <p>
             Built a full-stack web app with ASP.NET Core, PostgreSQL, and
             Next.js to enable recipe creation, ingredient tracking, and meal
@@ -48,7 +50,9 @@ function openGitHub() {
         </div>
         <div class="item">
           <i class="ri-news-line"></i>
-          <a href="#">Multiplayer Card Game</a>
+          <a href="https://github.com/tyreesamurai/s-head"
+            >Multiplayer Card Game</a
+          >
           <p>
             Engineered a real-time multiplayer card game using Go and
             WebSockets, implementing custom game logic, match handling, and
