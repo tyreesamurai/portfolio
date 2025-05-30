@@ -52,7 +52,7 @@ function openGitHub() {
           </p>
         </div>
         <div class="item">
-          <i class="ri-news-line"></i>
+          <i class="ri-gamepad-line"></i>
           <a
             href="https://github.com/tyreesamurai/s-head"
             target="_blank"
@@ -66,7 +66,7 @@ function openGitHub() {
           </p>
         </div>
         <div class="item">
-          <i class="ri-gamepad-line"></i>
+          <i class="ri-id-card-line"></i>
           <a href="#">Portfolio Website</a>
           <p>
             Designed and developed this responsive portfolio using Vue.js,
