@@ -16,7 +16,7 @@
         <i class="ri-window-line"></i>
         <h3>Web Development</h3>
         <ul>
-          <li>React, Next.js, React Native</li>
+          <li>React, Vue.js, React Native</li>
           <li>Node.js, Flask, Spring Boot</li>
           <li>ASP.NET Core, GraphQL, REST APIs</li>
         </ul>
