@@ -24,9 +24,7 @@ function openLinkedIn() {
   <div class="hero">
     <div class="left-section">
       <div class="top">
-        <h2>
-          Hi, I'm Tyree — a Full-Stack Developer at the start of something great
-        </h2>
+        <h2>Hi, I'm Tyree — a Full-Stack Developer</h2>
         <p>
           I'm a curious and capable developer with a strong foundation in both
           frontend and backend technologies. I recently graduated with a degree
@@ -35,11 +33,10 @@ function openLinkedIn() {
           creator.
         </p>
         <p>
-          I believe in learning by doing, so I spend most of my time creating —
-          from personal projects and passion tools to collaborative work that
-          pushes my skills further. My goal is to keep leveling up while
-          delivering thoughtful, well-built experiences that people actually
-          enjoy using.
+          I learn by building. Whether it’s a personal project, a collaborative
+          tool, or a new experiment, I’m constantly sharpening my skills and
+          delivering thoughtful, user-focused experiences people actually enjoy
+          using.
         </p>
 
         <div class="buttons">
