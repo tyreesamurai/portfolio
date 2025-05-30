@@ -38,7 +38,10 @@ function openGitHub() {
         </div>
         <div class="item">
           <i class="ri-restaurant-2-line"></i>
-          <a href="https://github.com/tyreesamurai/recipe-assistant"
+          <a
+            href="https://github.com/tyreesamurai/recipe-assistant"
+            target="_blank"
+            rel="noopener noreferrer"
             >Recipe Management App</a
           >
           <p>
@@ -50,7 +53,10 @@ function openGitHub() {
         </div>
         <div class="item">
           <i class="ri-news-line"></i>
-          <a href="https://github.com/tyreesamurai/s-head"
+          <a
+            href="https://github.com/tyreesamurai/s-head"
+            target="_blank"
+            rel="noopener noreferrer"
             >Multiplayer Card Game</a
           >
           <p>
@@ -60,7 +66,7 @@ function openGitHub() {
           </p>
         </div>
         <div class="item">
-          <i class="ri-id-card-line"></i>
+          <i class="ri-gamepad-line"></i>
           <a href="#">Portfolio Website</a>
           <p>
             Designed and developed this responsive portfolio using Vue.js,
