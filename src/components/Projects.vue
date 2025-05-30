@@ -30,27 +30,37 @@ function openGitHub() {
             rel="noopener noreferrer"
             >Clinician App</a
           >
-          <p>Developed full-featured clinician application.</p>
+          <p>
+            Developed a cross-platform clinician application using React Native
+            and Expo, featuring multi-tab navigation, patient data input forms,
+            and responsive design for tablet use in medical environments.
+          </p>
         </div>
         <div class="item">
           <i class="ri-restaurant-2-line"></i>
           <a href="#">Recipe Management App</a>
           <p>
-            Created a social media application with real-time updates and user
-            interactions.
+            Built a full-stack web app with ASP.NET Core, PostgreSQL, and
+            Next.js to enable recipe creation, ingredient tracking, and meal
+            planning, featuring dynamic search and user-authenticated data
+            persistence.
           </p>
         </div>
         <div class="item">
           <i class="ri-news-line"></i>
-          <a href="#">Blog Platform</a>
-          <p>Built a dynamic blog platform with content management features.</p>
+          <a href="#">Multiplayer Card Game</a>
+          <p>
+            Engineered a real-time multiplayer card game using Go and
+            WebSockets, implementing custom game logic, match handling, and
+            concurrent state management for seamless online play.
+          </p>
         </div>
         <div class="item">
           <i class="ri-id-card-line"></i>
           <a href="#">Portfolio Website</a>
           <p>
-            Designed and built a personal portfolio website to showcase my
-            projects and skills.
+            Designed and developed this responsive portfolio using Vue.js,
+            interactive components, and a modular project showcase.
           </p>
         </div>
       </div>
