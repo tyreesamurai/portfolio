@@ -67,7 +67,12 @@ function openGitHub() {
         </div>
         <div class="item">
           <i class="ri-id-card-line"></i>
-          <a href="#">Portfolio Website</a>
+          <a
+            href="https://github.com/tyreesamurai/portfolio"
+            target="_blank"
+            rel="noopener noreferrer"
+            >Portfolio Website</a
+          >
           <p>
             Designed and developed this responsive portfolio using Vue.js,
             interactive components, and a modular project showcase.

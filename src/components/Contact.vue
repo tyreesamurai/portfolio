@@ -1,10 +1,8 @@
 <script setup>
-function openGitHub() {
-  window.open(
-    "https://github.com/tyreesamurai?tab=repositories",
-    "_blank",
-    "noopener,noreferrer",
-  );
+const resumeLink = import.meta.env.BASE_URL + "/resume.pdf";
+
+function openResume() {
+  window.open(resumeLink, "_blank", "noopener,noreferrer");
 }
 
 function openEmail() {
@@ -17,19 +15,24 @@ function openEmail() {
     <h2>Interested in Working Together?</h2>
     <div class="items">
       <div class="item">
-        <a href="#">Schedule a call</a>
+        <a
+          href="mailto:tyree.fullstack@gmail.com"
+          target="_blank"
+          rel="noopener noreferrer"
+          >Schedule a call</a
+        >
         <p>Let's discuss your project ideas and how I can help you.</p>
         <button @click="openEmail">Schedule a Call</button>
       </div>
       <div class="item">
-        <a
-          href="https://github.com/tyreesamurai?tab=repositories"
-          target="_blank"
-          rel="noopener noreferrer"
-          >Explore My Work</a
+        <a :href="resumeLink" target="_blank" rel="noopener noreferrer"
+          >Review My Background</a
         >
-        <p>View my portfolio to see the kind of work I do for you.</p>
-        <button @click="openGitHub">View My Work</button>
+        <p>
+          View my resume to explore the skills, experience, and projects that
+          have shaped my journey so far.
+        </p>
+        <button @click="openResume">Open My Resume</button>
       </div>
     </div>
   </div>
